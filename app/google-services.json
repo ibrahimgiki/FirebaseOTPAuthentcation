@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "551894424849",
+    "project_id": "otpauthentcation",
+    "storage_bucket": "otpauthentcation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551894424849:android:b0cb868a2271a334ee00b0",
+        "android_client_info": {
+          "package_name": "com.trickyworld.firebaseotpauthentcation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551894424849-vsbjtr9ph3vj3c4j65q0a6jfrtmj8qmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trickyworld.firebaseotpauthentcation",
+            "certificate_hash": "cc68b778680f496dd6bcd4c9a2a5a0a2b6a9fa17"
+          }
+        },
+        {
+          "client_id": "551894424849-njsj7gcqt1j8a5q3kdg6casjvgbqd522.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1L_TFz_ayWlOASqvKVFZiliSgCVh809U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551894424849-njsj7gcqt1j8a5q3kdg6casjvgbqd522.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
